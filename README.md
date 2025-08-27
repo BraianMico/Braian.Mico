@@ -1,6 +1,6 @@
 # Portafolio | Braian Damián Micó
 
-Portafolio profesional de Braian Damián Micó –He trabajado en proyectos metalúrgicos y de diseño 3D para empresas como Transclor, Sinteplast, Poliresinas y BRD Estate S.A., entre otras.
+He trabajado en proyectos metalúrgicos y de diseño 3D para empresas como Transclor, Sinteplast, Poliresinas y BRD Estate S.A., entre otras.
 Diseño 2D y 3D e ingeniería metalúrgica. Incluye proyectos de estructuras metálicas, plataformas, escaleras, piping, soporteria, tanques y planos tecnicos, desarrollados en SolidWorks y AutoCAD.
 Este repositorio contiene mi portafolio profesional en línea, donde expongo algunos de los proyectos en los que trabajé dentro del ámbito metalúrgico.
 

@@ -4,7 +4,7 @@ Portafolio profesional de Braian Damián Micó – Diseño 2D y 3D e ingeniería
 Este repositorio contiene mi portafolio profesional en línea, donde expongo algunos de los proyectos en los que trabajé dentro del ámbito metalúrgico.
 
 ##  Sobre mí
-Soy técnico en oficina técnica con experiencia en:
+Soy proyectista en una oficina técnica con experiencia en:
 - Diseño 3D (SolidWorks, AutoCAD)
 - Cálculo de materiales y pesos
 - Interpretación y generación de planos técnicos

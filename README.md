@@ -9,15 +9,16 @@ Soy técnico en oficina técnica con experiencia en:
 - Diseño 3D (SolidWorks, AutoCAD)
 - Cálculo de materiales y pesos
 - Interpretación y generación de planos técnicos
-- Desarrollo de estructuras, cargaderos, piping y tanques
+- Desarrollo de estructuras, cargaderos, piping, soporteria y tanques
 - Control de calidad en procesos metalúrgicos
 - Soldadura MIG, TIG, MMA y pintura industrial
 
 ## 📂 Proyectos destacados
 - **Cargadero de tanques** → Modelado 3D, listado de materiales y planos de fabricación.
-- **Estructura metálica de soporte** → Diseño completo, renderizado y planos técnicos.
+- **Plataforma condensador evaporativo** → Diseño completo, renderizado y planos técnicos.
 - **Componentes industriales** → Piezas especiales desarrolladas con SolidWorks.
-
+- **Escaleras acceso a sala de control** → Modelado 3D, listado de materiales y planos de fabricación.
+  
 ## 🛠 Herramientas utilizadas
 - SolidWorks
 - AutoCAD
@@ -25,8 +26,8 @@ Soy técnico en oficina técnica con experiencia en:
 
 ## 🌐 Portafolio online
 Podés visitar mi portafolio en GitHub Pages:
-👉 [Ver sitio](https://tuusuario.github.io/portafolio)
+👉 [Ver sitio](https://BraianMico.github.io/portafolio)
 
 ## 📩 Contacto
-- **Email:** tuemail@mail.com
+- **Email:** braian.mico@hotmail.es
 - **LinkedIn:** [linkedin.com/in/braianmico](https://linkedin.com/in/braianmico)

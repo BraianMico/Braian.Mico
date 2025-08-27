@@ -1,8 +1,7 @@
-# Braian.Mico
-Portafolio profesional de Braian Damián Micó – Diseño 2D y 3D e ingeniería metalúrgica. Incluye proyectos de estructuras metálicas, piping, soporteria, tanques y planos tecnicos, desarrollados en SolidWorks y AutoCAD.
 # Portafolio | Braian Damián Micó
 
-Este repositorio contiene mi portafolio profesional en línea, donde muestro algunos de los proyectos en los que trabajé dentro del ámbito metalúrgico.
+Portafolio profesional de Braian Damián Micó – Diseño 2D y 3D e ingeniería metalúrgica. Incluye proyectos de estructuras metálicas, piping, soporteria, tanques y planos tecnicos, desarrollados en SolidWorks y AutoCAD.
+Este repositorio contiene mi portafolio profesional en línea, donde expongo algunos de los proyectos en los que trabajé dentro del ámbito metalúrgico.
 
 ## 👨‍💼 Sobre mí
 Soy técnico en oficina técnica con experiencia en:

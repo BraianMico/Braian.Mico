@@ -29,4 +29,4 @@ Podés visitar mi portafolio en GitHub Pages:
 
 ## 📩 Contacto
 - **Email:** braian.mico@hotmail.es
-- **LinkedIn:** [linkedin.com/in/braianmico](https://linkedin.com/in/braianmico)
+- **LinkedIn:** www.linkedin.com/in/braian-damian-micó-00b4a6127

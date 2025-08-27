@@ -25,7 +25,7 @@ Soy proyectista en una oficina técnica con experiencia en:
 
 ## 🌐 Portafolio online
 Podés visitar mi portafolio en GitHub Pages:
-👉 [Ver sitio](https://BraianMico.github.io/portafolio)
+👉 [Ver sitio](https://github.com/BraianMico/Braian.Mico)
 
 ## 📩 Contacto
 - **Email:** braian.mico@hotmail.es

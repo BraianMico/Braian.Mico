@@ -4,7 +4,7 @@ He trabajado en proyectos metalúrgicos y de diseño 3D al servico de empresas c
 Diseño 2D y 3D e ingeniería metalúrgica. Incluye proyectos de estructuras metálicas, plataformas, escaleras, piping, soporteria, tanques y planos tecnicos, desarrollados en SolidWorks y AutoCAD.
 Este repositorio contiene mi portafolio profesional en línea, donde expongo algunos de los proyectos en los que trabajé dentro del ámbito metalúrgico.
 
-##  Sobre mí
+##  Sobre mí 
 Soy proyectista en una oficina técnica con experiencia en:
 - Diseño 3D (SolidWorks, AutoCAD)
 - Cálculo de materiales y pesos
